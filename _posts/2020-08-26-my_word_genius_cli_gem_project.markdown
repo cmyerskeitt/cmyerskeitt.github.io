@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Word Genius CLI Gem Project"
-date:       2020-08-27 01:13:42 +0000
+date:       2020-08-26 21:13:43 -0400
 permalink:  my_word_genius_cli_gem_project
 ---
 
