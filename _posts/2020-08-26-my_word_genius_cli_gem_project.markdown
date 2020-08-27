@@ -17,7 +17,7 @@ My code finally seems to work.Yah! I'm done, right? No.
 Refactoring and testing your code are the last major steps of building your project before wrapping up. Did you run the program all the way through? Did you test to see what happens when you put in the wrong response? Did you error handle for all nil responses? Is there any code that is redundant or unnecessary? Does each response do what you intended? Why or why not? 
 
 Ok. I think we are finished. What do think about my first CLI project? 
-Check it out here: https://github.com/cmyerskeitt/cmyerskeitt_cli_project
+Check it out [here.](https://github.com/cmyerskeitt/cmyerskeitt_cli_project)
 
 
 
