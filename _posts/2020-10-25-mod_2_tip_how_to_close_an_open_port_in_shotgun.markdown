@@ -24,7 +24,7 @@ The basic process is:
 
 * Use the lsof command to list open files (In this case in reference to tcp port 9393/ localhost: 9393) 
 
-**lsof -i TCP: 9393 ** 
+**lsof -i TCP: 9393**
 
 * Review the running shotgun servers to find the PID of the open port 
 
@@ -42,7 +42,7 @@ ruby   7836 christinemyerskeitt   20u  IPv4 0x9f8610427f099193      0t0  TCP loc
 
 Run shotgun and it should work this time.
 
-**Happy coding and good luck on your Sinatra project! **
+**Happy coding and good luck on your Sinatra project!**
 
 
 
