@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mod 2 Tip: How to Close An Open Port in Shotgun"
-date:       2020-10-25 21:18:28 +0000
+date:       2020-10-25 17:18:29 -0400
 permalink:  mod_2_tip_how_to_close_an_open_port_in_shotgun
 ---
 
