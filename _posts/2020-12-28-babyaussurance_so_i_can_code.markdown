@@ -10,7 +10,7 @@ As a full time teacher, mom, wife and part-time software engineer student I have
 
 With the help of Rails generators I  created four models: users, baby products, brands, and reviews with a stretch goal of coming back to extend the brand model later. My primary focus was to meet the many requirements of the project before coming back to build the brand model out. I'm happy that I waited because I ran into many errors and had to do alot of debugging. What helped me the most was remembering that Rails is literally Sinatra on steriods. Everytime I was confused by an error, I thought back to my understanding of Sintara. 
 
-Here are a couple of tips that helped me get back on track when I hit a bug. 
+Here are a couple of tips that helped me get back on track when I hit a bug:
 
 * Ruby is a very easy to read and intuitive language so don't be afraid to use the documentation to try new things. 
 * Build out the navi in your layouts view as you go to ensure that your web application is easy to navigate. 
