@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Passing Props from Child to Parents"
+title:      "React: Passing Props from Child to Parent"
 date:       2021-05-10 16:21:50 -0400
 permalink:  passing_props_from_child_to_parents
 ---
