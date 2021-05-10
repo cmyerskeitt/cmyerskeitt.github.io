@@ -10,8 +10,7 @@ When initialliy asked how to pass props from the child to the parent, I responde
 
 So let's imagine, I have data in my child that my parent needs access to, what do I need to do?
 
-**1. Define a callback in my parent which takes the data I need in as a parameter.
-**
+**1. Define a callback in my parent which takes the data I need in as a parameter.**
 
 **2. Pass that callback as a prop to the child **
 
