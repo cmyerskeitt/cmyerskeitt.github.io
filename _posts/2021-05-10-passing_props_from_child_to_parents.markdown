@@ -12,6 +12,8 @@ So let's imagine, I have data in my child that my parent needs access to, what d
 
 **1. Define a callback in my parent which takes the data I need in as a parameter.**
 
+A callback is a function that is passed as an argument to another function, to be “called back” at a later time. 
+
 **2. Pass that callback as a prop to the child **
 
 Parent 
