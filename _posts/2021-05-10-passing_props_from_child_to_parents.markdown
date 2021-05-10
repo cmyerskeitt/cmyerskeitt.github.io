@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Passing Props from Child to Parents"
-date:       2021-05-10 20:21:50 +0000
+date:       2021-05-10 16:21:50 -0400
 permalink:  passing_props_from_child_to_parents
 ---
 
