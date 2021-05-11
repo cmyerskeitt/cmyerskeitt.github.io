@@ -72,3 +72,5 @@ class Child extends React.Component{
 }
 export default Child
 ```
+
+Code referenced from GeeksforGeeks.com
